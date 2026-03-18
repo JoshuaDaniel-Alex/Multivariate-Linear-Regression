@@ -7,18 +7,23 @@ To write a python program to implement multivariate linear regression and predic
 ## Algorithm:
 ### Step1
 <br>
+import pandas as pd.
 
 ### Step2
 <br>
+Read the csv file.
 
 ### Step3
 <br>
+Get the value of X and y variables
 
 ### Step4
 <br>
+Create the linear regression model and fit.
 
 ### Step5
 <br>
+Perdict the Train data and testing data
 
 ## Program:
 ```
